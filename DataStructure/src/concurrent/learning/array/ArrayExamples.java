@@ -33,4 +33,5 @@ public class ArrayExamples {
         //ae.printNumbers();
         ae.printPeople();
     }
+
 }
