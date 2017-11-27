@@ -1,16 +1,6 @@
 # Arrays
 
-Brief youtube [video](https://youtu.be/iUcgZpt0Bv4) that explains ArrayExamples.java and Person.java.
-
-### Class grouping
-
-1. Array Examples
-  * Main: ArrayExamples.java
-  * Model(s): Person.java
-
-2. Array Exercises
-  * Main: ArrayExercises.java
-  * Model(s): Animal.java
+Brief youtube [video](https://youtu.be/iUcgZpt0Bv4) that explains array/examples.
 
 ### Exercises (answers provided in ArrayExercises.java)
 
