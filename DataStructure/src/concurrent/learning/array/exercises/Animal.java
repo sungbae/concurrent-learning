@@ -1,4 +1,4 @@
-package concurrent.learning.array;
+package concurrent.learning.array.exercises;
 
 public class Animal implements Comparable<Animal> {
 

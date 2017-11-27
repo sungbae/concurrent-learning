@@ -1,4 +1,4 @@
-package concurrent.learning.array;
+package concurrent.learning.array.examples;
 
 public class Person {
     public String name;
