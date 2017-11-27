@@ -2,6 +2,16 @@
 
 Brief youtube [video](https://youtu.be/iUcgZpt0Bv4) that explains ArrayExamples.java and Person.java.
 
+### Class grouping
+
+1. Array Examples
+  * ArrayExamples.java
+  * Person.java
+
+2. Array Exercises
+  * ArrayExercises.java
+  * Animal.java
+
 ### Exercises (answers provided in ArrayExercises.java)
 
 *requirements are in bullets*
