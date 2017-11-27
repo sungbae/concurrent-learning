@@ -5,12 +5,12 @@ Brief youtube [video](https://youtu.be/iUcgZpt0Bv4) that explains ArrayExamples.
 ### Class grouping
 
 1. Array Examples
-  * ArrayExamples.java
-  * Person.java
+  * Main: ArrayExamples.java
+  * Model(s): Person.java
 
 2. Array Exercises
-  * ArrayExercises.java
-  * Animal.java
+  * Main: ArrayExercises.java
+  * Model(s): Animal.java
 
 ### Exercises (answers provided in ArrayExercises.java)
 
