@@ -9,7 +9,7 @@ Brief youtube [video](https://youtu.be/iUcgZpt0Bv4) that explains array/examples
 1. Find the **average** value for an array of {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
   * Void method: int array as a parameter, prints the average
 
-###### answer: 5
+###### answer: 5.5
 
 2. Find the **sum** of **even** numbers from this array {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
   * Int[] method: int array as a parameter, returns the sum of even numbers
