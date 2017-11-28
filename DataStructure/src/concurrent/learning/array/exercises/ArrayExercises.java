@@ -9,7 +9,7 @@ public class ArrayExercises {
         for (int n : numbers) {
             sum += n;
         }
-        int avg = sum / numbers.length;
+        int avg = (float)sum / numbers.length;
         System.out.println("Solution 1: " + avg);
     }
 
