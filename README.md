@@ -4,7 +4,7 @@ Basically learn how to program in Java with [videos](https://www.youtube.com/cha
 
 Java examples/exercices on Intro to Programming:
 
-- [ ] Setting up IDE & Hello World
+- [ ] IDE Introduction & Hello World
 - [ ] Primitive Data Types
 - [ ] Conditionals, Loops, & Arrays
 - [ ] Input & Output
