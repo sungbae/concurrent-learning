@@ -1,5 +1,16 @@
 # concurrent-learning
 
+Basically learn how to program in Java with videos, examples, and exercises...
+
+Java examples/exercices on Intro to Programming:
+
+- [ ] Setting up IDE & Hello World
+- [ ] Primitive Data Types
+- [ ] Conditionals, Loops, & Arrays
+- [ ] Input & Output
+- [ ] Functions & Modules
+- [ ] Object-Oriented Programming
+
 Java examples/exercises on Data Structures:
 
 - [x] Arrays
