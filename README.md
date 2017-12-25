@@ -2,7 +2,7 @@
 
 Basically learn how to program in Java with [videos](https://www.youtube.com/channel/UCQjzQ36MTSG6HUn0LbadsKg/playlists?view_as=subscriber), examples, and exercises...
 
-Java examples/exercices on Intro to Programming:
+Java examples/exercises on Intro to Programming:
 
 - [ ] IDE Introduction & Hello World
 - [ ] Primitive Data Types
